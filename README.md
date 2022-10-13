@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a fan of @HelmutQualtinger
 - 👀 I’m interested in mathematics, programming and microelelectronics
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to increase my general culture
+- 💞️ I’m striving to increase my general culture
 
 
 <!---
