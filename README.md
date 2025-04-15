@@ -1,6 +1,6 @@
 - 👋 Hi, I’m a fan of @HelmutQualtinger
-- 👀 I’m interested in mathematics, programming and microelelectronics
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in mathematics, neural networks, language models, programming and microelelectronics
+- 🌱 I’m currently learning Python. I don't like it but its powerful
 - 💞️ I’m striving to increase my general culture
 
 
